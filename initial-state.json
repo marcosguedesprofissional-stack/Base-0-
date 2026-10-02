@@ -1,0 +1,46 @@
+{
+  "campaign": {
+    "daysTotal": 90,
+    "currentDay": 1
+  },
+  "character": {
+    "name": "Sirius",
+    "level": 1,
+    "xp": 0,
+    "gold": 0,
+    "power": 0,
+    "skillPoints": 3,
+    "hp": 0,
+    "mana": 0,
+    "equipped": [],
+    "abilities": []
+  },
+  "attributes": {
+    "hidratacao": 50,
+    "condicionamento": 0,
+    "nutricao": 30,
+    "sono": 0,
+    "conhecimento": 20,
+    "responsabilidade": 50,
+    "vinculo": 30
+  },
+  "missions": [],
+  "finance": {
+    "entries": [],
+    "exits": [],
+    "debts": [],
+    "history": []
+  },
+  "boss": {
+    "hp": 0,
+    "maxHp": 1000
+  },
+  "dungeons": {
+    "current": 1,
+    "total": 10
+  },
+  "equipment": {
+    "inventory": [],
+    "equipped": []
+  }
+}
