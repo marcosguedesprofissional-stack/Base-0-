@@ -1,0 +1,10 @@
+*{box-sizing:border-box}
+html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#000}
+body{font-family:Georgia,serif}
+#app{position:relative;width:100vw;height:100dvh;overflow:hidden;background:#000}
+.screen{position:absolute;inset:0;display:none;background:#000}
+.screen.active{display:block}
+.art{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;object-position:center;display:block;user-select:none;-webkit-user-drag:none}
+.hotspot{position:absolute;border:0;background:transparent;padding:0;margin:0;cursor:pointer}
+#profileHotspot{left:0%;top:0%;width:24%;height:23%}
+#homeHotspot{left:0%;top:0%;width:14%;height:9%}
